@@ -1,5 +1,9 @@
 # EDA_PROJECT1
 
+oringinal page:
+https://github.com/rdpeng/ExData_Plotting1
+
+Sorry, I forgot to fork it but create a new repo. And I found that while peer-grading the assignments.
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
