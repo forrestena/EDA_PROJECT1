@@ -9,3 +9,5 @@ Date: Date in format dd/mm/yyyy Time: time in format hh:mm:ss Global_active_powe
 
 
 The plot could get by running a.R
+
+Or respectively runing Plot1.R Plot2.R Plot3.R Plot4.R
